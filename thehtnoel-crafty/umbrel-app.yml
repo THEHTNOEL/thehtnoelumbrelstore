@@ -4,7 +4,7 @@ name: Crafty Controller
 tagline: Python based Control Panel for your Minecraft Server
 icon: 'icon.png'
 category: gaming
-version: "Latest"
+version: "1.0.0"
 port: 18443
 description: >-
  What is Crafty Controller?
