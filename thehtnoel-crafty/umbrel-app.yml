@@ -2,7 +2,7 @@ manifestVersion: 1
 id: thehtnoel-crafty
 name: Crafty Controller
 tagline: Python based Control Panel for your Minecraft Server
-icon: https://raw.githubusercontent.com/THEHTNOEL/thehtnoelumbrelstore/main/Crafty_4-0_Logo_square-1.png
+icon: 'icon.png'
 category: gaming
 version: "Latest"
 port: 18443
@@ -17,8 +17,6 @@ submitter: thehtnoel
 submission: https://github.com/getumbrel/umbrel-apps/pull/
 repo: https://gitlab.com/crafty-controller/crafty-4
 support: https://gitlab.com/crafty-controller/crafty-4/-/issues
-gallery:
-  - https://gitlab.com/crafty-controller/crafty-4/-/raw/master/app/frontend/static/assets/images/logo_long.svg
 releaseNotes: >-
   Nothing yet.
 dependencies:
