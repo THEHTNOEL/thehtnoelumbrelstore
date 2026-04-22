@@ -1,15 +1,14 @@
 manifestVersion: 1
-id: thehtnoel-crafty
+id: thehtnoel
 name: Crafty Controller
 tagline: Python based Control Panel for your Minecraft Server
-icon: 'icon.png'
+icon: https://raw.githubusercontent.com/THEHTNOEL/thehtnoelumbrelstore/main/Crafty_4-0_Logo_square-1.png
 category: gaming
 version: "1.0.0"
 port: 18443
 description: >-
  What is Crafty Controller?
 Crafty Controller is a Minecraft Server Control Panel / Launcher. The purpose of Crafty Controller is to launch a Minecraft Server in the background and present a web interface for the server administrators to interact with their servers. Crafty is compatible with Docker, Linux, Windows.
-
 🔑 The default username for Crafty Controller is 'admin', and the password is randomly generated. You can find the password in the file located at: /umbrel/app-data/thehtnoel-crafty/data/config/default-creds.txt. It is highly recommended to change the password immediately after logging in for security purposes.
 developer: Crafty Controller
 website: https://craftycontrol.com/
@@ -17,6 +16,8 @@ submitter: thehtnoel
 submission: https://github.com/getumbrel/umbrel-apps/pull/
 repo: https://gitlab.com/crafty-controller/crafty-4
 support: https://gitlab.com/crafty-controller/crafty-4/-/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Nothing yet.
 dependencies:
